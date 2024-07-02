@@ -1,0 +1,5 @@
+- Redux
+- Connecting React and Redux
+- useSelector, useDispatch
+- Connect API (old way of connecting react and redux)
+- Redux middleware : Thunks & Calling async functions using redux
