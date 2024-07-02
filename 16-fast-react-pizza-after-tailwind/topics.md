@@ -1,0 +1,5 @@
+- tailwind
+- redux toolkit
+- advanced react router
+- thunk
+- geolocation

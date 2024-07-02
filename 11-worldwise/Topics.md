@@ -1,0 +1,5 @@
+- Vite, React Router, ESLint configuration, CSS Modules
+- Storing state in URL (URL Params and query string), useParams, useSearchParams
+- useNavigate
+- leaflet, react-leaflet : useMap(), useMapEvents()
+- Lazy Loading, Dynamic Imports, Suspense (API) with fallback UI

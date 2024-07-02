@@ -1,0 +1,3 @@
+- createContext and useContext hooks.
+- Context provider
+- memo, useCallback, useMemo, Context Prop / Child optimization

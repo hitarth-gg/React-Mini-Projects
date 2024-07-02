@@ -1,0 +1,1 @@
+- memoizing components (export components)
